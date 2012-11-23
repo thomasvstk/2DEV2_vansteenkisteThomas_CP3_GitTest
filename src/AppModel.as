@@ -13,6 +13,8 @@ public class AppModel extends Sprite {
         textField.text = "Hello, World";
         addChild(textField);
 
+
+
     }
 }
 }
